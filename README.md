@@ -56,3 +56,7 @@ Executed in terminal via Command Prompt using:
 javac to compile, java to run server/client programs
 
 OUTPUT
+
+Server
+
+<img width="1919" height="1083" alt="17536994697622718714751475946155" src="https://github.com/user-attachments/assets/ff84e322-5200-4b5e-b3b9-12ce1d768653" />
